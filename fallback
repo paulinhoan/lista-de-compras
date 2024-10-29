@@ -1,0 +1,4 @@
+const routes: Routes = [
+  // Other routes...
+  { path: '**', component: NotFoundComponent }
+];
